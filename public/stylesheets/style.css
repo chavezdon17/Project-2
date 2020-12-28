@@ -2,3 +2,45 @@ form.signup,
 form.login {
   margin-top: 50px;
 }
+body{
+  background-color: rgb(98, 98, 100);
+  width: auto;
+}
+#firstRow{
+  background-color: rgb(78,78,80);
+}
+#secondRow{
+  background-color: rgb(26,26,28);
+  font-size: 60px;
+}
+.row{
+  margin: 50px;
+  height: 400px;
+  border-radius: 50px;
+  text-align: center;
+}
+.nav-wrapper{
+  background: rgb(195,8,63);
+}
+
+.btn2{
+ 
+  left: 800px !important;
+  top: 20px;
+  
+  
+}
+.img{
+  height: 500px;
+}
+.btn{
+  background-color: rgb(111,34,50) !important;
+  bottom: 80px;
+  left: 1655px;
+}
+
+.card{
+  background-color: rgb(78,78,80) !important;
+  text-align: center !important;
+  border-radius: 50px !important;
+}
